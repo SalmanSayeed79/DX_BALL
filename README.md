@@ -1,6 +1,7 @@
 # DX_BALL
 Term project for L-1 T-1
-Key Features:
+------------------------------
+<b>Key Features:</b>
 - Has two modes. Normal and Extreme.
 - Extreme mode has different powerups and bouns scoring facility
 - Collisions make sound
