@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1563893532 source:f:\c files\cse 102\igraphics\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\opengl\include\gl.h
+
+1604757096 source:f:\c files\cse 102\igraphics\igraphics-master\curves.cpp
+	"iGraphics.h"
+	<math.h>
+	<windows.h>
+
+1563893532 source:f:\c files\cse 102\igraphics\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\c files\cse 102\igraphics\igraphics-master\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 source:f:\c files\cse 102\term project\dxball\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 f:\c files\cse 102\term project\dxball\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 f:\c files\cse 102\term project\dxball\igraphics-master\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\c files\cse 102\term project\dxball\igraphics-master\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 f:\c files\cse 102\term project\dxball\igraphics-master\gl.h
+
+1608415654 source:f:\c files\cse 102\term project\dxball\igraphics-master\curves.cpp
+	"iGraphics.h"
+	<math.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<cstdlib>
+
