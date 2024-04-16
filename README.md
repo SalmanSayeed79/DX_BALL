@@ -1,7 +1,5 @@
 # DxBall Demo
 
-Comments: https://www.youtube.com/watch?v=dCCS7Hjmck0&feature=youtu.be
-tech: C, iGraphics
 
 ![Untitled](DxBall%20Demo%20eb04324645a140688ba8e581050afec5/Untitled.png)
 
